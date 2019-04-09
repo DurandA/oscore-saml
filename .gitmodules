@@ -1,0 +1,10 @@
+[submodule "ace-rs-saml4/tinycbor"]
+	path = ace-rs-saml4/tinycbor
+	url = https://github.com/intel/tinycbor.git
+[submodule "ace-rs-saml4/mbedtls"]
+	path = ace-rs-saml4/mbedtls
+	url = https://github.com/ARMmbed/mbedtls.git
+[submodule "ace-rs-saml4/ace-rs-mgos"]
+	path = ace-rs-saml4/ace-rs-mgos
+	url = https://github.com/DurandA/ace-rs-mgos.git
+	branch = develop
